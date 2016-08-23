@@ -94,6 +94,7 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
         countryTxt.isHidden = false
         zipCodeLbl.isHidden = false
         zipCodeTxt.isHidden = false
+        buyNowBtn.isHidden = false
     }
 
 }
